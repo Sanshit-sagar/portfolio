@@ -1,0 +1,135 @@
+- project :
+    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal : False # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url : https://github.com/sanshit-sagar/siri2.0/ # Full URL
+    image : "fft-siri2.0.png" # path: assets/project/
+    date : 2018.03 - 2019.06
+    title : siri 2.0
+    summary : objective-c | python flask | gcp speech-to-text  | luis.ai | wolframalpha | heroku | mongodb
+    description : poly-lingual i-os virtual assistant with a personality
+    contents :
+        - title : 
+          image : 
+          description :  <li> relayed user’s utterance to a flask server hosted using heroku</li>
+            <li> created 35+ modules that scrape/get common, trendy ‘intents’</li>
+            <ol> 
+              <li> weather </li> 
+              <li> crypto prediction </li> 
+              <li> food recommendation </li> 
+              <li>  </li>
+            </ol> 
+            <li> isolated intents & entities by training/using a luis.ai model </li>
+            <li> matched each utterance to one or more module w/ TODO </li> 
+            <li> defaulted to wolfram alpha when < 30% match </li> 
+            <li> used mongodb to store weighted moving averages of NLP stats</li>
+        
+
+- project :
+    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal : False # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url : https://github.com/sanshit-sagar/rustOS/ 
+    image : # path: assets/project/
+    date : 2018.03 - 2019.06
+    title : rOSt microkernel
+    summary : 
+    description :  micro-kernel operating system in an x86_64 bare metal environment
+
+- project :
+    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal : False # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url : https://github.com/Sanshit-sagar/realtime-tattle-tale 
+    image : # path: assets/project/
+    date : 2020.08 - present
+    title : snitch
+    summary : 
+    description : secure multi-user chat platform with reactjs and firebase that black lists users for swearing
+
+- project :
+    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal : False # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url :  
+    image : # path: assets/project/
+    date : 2020.08 - present
+    title : chess.com LIVE
+    summary : 
+    description :  api for real-time chess news & stats - uses a server-less vert.x & lambda backend that analyzes live chess.com & twitter feeds
+
+# - project :
+#     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+#     modal : False # If 'True' is selected, modal can open in 'portfolio.html'. 
+#     url : https://github.com/sanshit-sagar/siri2.0/ # Full URL
+#     image : "fft-siri2.0.png" # path: assets/project/
+#     date : 2018.03 - 2019.06
+#     title : siri 2.0
+#     summary : objective-c | python flask | gcp speech-to-text  | luis.ai | wolframalpha | heroku | mongodb
+#     description : poly-lingual i-os virtual assistant with a personality
+#     contents :
+#         - title : 
+#           image : 
+#           description :  <li> relayed user’s utterance to a flask server hosted using heroku</li>
+#             <li> created 35+ modules that scrape/get common, trendy ‘intents’</li>
+#             <ol> 
+#               <li> weather </li> 
+#               <li> crypto prediction </li> 
+#               <li> food recommendation </li> 
+#               <li>  </li>
+#             </ol> 
+#             <li> isolated intents & entities by training/using a luis.ai model </li>
+#             <li> matched each utterance to one or more module w/ TODO </li> 
+#             <li> defaulted to wolfram alpha when < 30% match </li> 
+#             <li> used mongodb to store weighted moving averages of NLP stats</li>
+
+# - project :
+#     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+#     modal : False # If 'True' is selected, modal can open in 'portfolio.html'. 
+#     url : https://github.com/sanshit-sagar/rustOS/ 
+#     image : # path: assets/project/
+#     date : 2018.03 - 2019.06
+#     title : rOSt microkernel
+#     summary : 
+#     description :  micro-kernel operating system in an x86_64 bare metal environment
+
+# - project :
+#     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+#     modal : False # If 'True' is selected, modal can open in 'portfolio.html'. 
+#     url : https://github.com/Sanshit-sagar/realtime-tattle-tale 
+#     image : # path: assets/project/
+#     date : 2020.08 - present
+#     title : snitch
+#     summary : 
+#     description : secure multi-user chat platform with reactjs and firebase that black lists users for swearing
+
+# - project :
+#     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+#     modal : False # If 'True' is selected, modal can open in 'portfolio.html'. 
+#     url :  
+#     image : # path: assets/project/
+#     date : 2020.08 - present
+#     title : chess.com LIVE
+#     summary : 
+#     description :  api for real-time chess news & stats - uses a server-less vert.x & lambda backend that analyzes live chess.com & twitter feeds
+
+# - project :
+#     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+#     modal : False # If 'True' is selected, modal can open in 'portfolio.html'. 
+#     url : https://github.com/sanshit-sagar/siri2.0/ # Full URL
+#     image : "fft-siri2.0.png" # path: assets/project/
+#     date : 2018.03 - 2019.06
+#     title : siri 2.0
+#     summary : objective-c | python flask | gcp speech-to-text  | luis.ai | wolframalpha | heroku | mongodb
+#     description : poly-lingual i-os virtual assistant with a personality
+#     contents :
+#         - title : 
+#           image : 
+#           description :  <li> relayed user’s utterance to a flask server hosted using heroku</li>
+#             <li> created 35+ modules that scrape/get common, trendy ‘intents’</li>
+#             <ol> 
+#               <li> weather </li> 
+#               <li> crypto prediction </li> 
+#               <li> food recommendation </li> 
+#               <li>  </li>
+#             </ol> 
+#             <li> isolated intents & entities by training/using a luis.ai model </li>
+#             <li> matched each utterance to one or more module w/ TODO </li> 
+#             <li> defaulted to wolfram alpha when < 30% match </li> 
+#             <li> used mongodb to store weighted moving averages of NLP stats</li>

@@ -1,0 +1,60 @@
+# Site Settings
+baseurl: ""
+url : "https://sanshit-sagar.github.io"
+
+# Blog Settings
+theme_settings :
+  title : Grape Theme
+  favicon : assets/favicon.ico
+
+  # Profile Settings
+  profile :
+    image : assets/img/smile.png
+    username : Sanshit Sagar
+    description : here for a good time.
+    experience :
+      - start : 2020-01
+        end : 2020-11
+        experience : Serengeti Ventures 
+      - start : 2018-06
+        end : 2019-03
+        experience : Varfaj Partners 
+      - start : 2018-06
+        end : 2018-09
+        experience : Accenture 
+      - start : 2017-06
+        end : 2017-12
+        experience : ElevonData Labs 
+      - start : 2016-06
+        end : 2016-09
+        experience : Reveron Consulting
+    skills : 
+      - skill : work
+        value : 100  # Percent value
+        
+  # Icons
+  icons :
+    email: sanshit.sagar@gmail.com
+    linkedin:  https://linkedin.com/in/sanshit-sagar 
+    github: sanshit-sagar
+    gitlab: 
+    bitbucket: 
+    twitter:
+    youtube:
+    facebook:
+    instagram:
+
+  # Disqus
+  disqus_shortname :
+
+# Pagination
+paginate: 50
+paginate_path: "blog/page:num"
+
+# Build Ssttings
+sass:
+  sass_dir: _sass
+  style: :compressed
+gems: [jekyll-paginate]
+bootstrap:
+  assets: true
