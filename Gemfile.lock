@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    grape-theme (0.1.0)
+    Sanshit-sagar (0.1.0)
       jekyll (~> 3.8)
 
 GEM
@@ -262,9 +262,9 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  Sanshit-sagar!
   bundler (~> 2.0)
   github-pages
-  grape-theme!
   jekyll-paginate
   rake (~> 12.0)
 

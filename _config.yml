@@ -4,32 +4,38 @@ url : "https://sanshit-sagar.github.io"
 
 # Blog Settings
 theme_settings :
-  title : Grape Theme
+  title : Sanshit Sagar
   favicon : assets/favicon.ico
 
   # Profile Settings
   profile :
-    image : assets/img/smile.png
+    image : assets/img/fake-headshot.png
     username : Sanshit Sagar
-    description : here for a good time.
+    description : Software Engineer with almost three years of hands on start-up experience in building and shipping web services for e-commerce and financial services. I enjoy solving real problems and I’m looking to gain more industry experience to learn as much as I can. 
+
     experience :
       - start : 2020-01
         end : 2020-11
         experience : Serengeti Ventures 
+        title: Software Developer
       - start : 2018-06
         end : 2019-03
         experience : Varfaj Partners 
+        title: Co-founder
       - start : 2018-06
         end : 2018-09
         experience : Accenture 
+        title: Software Engineer, Intern 
       - start : 2017-06
         end : 2017-12
         experience : ElevonData Labs 
+        title: Software Engineer, Intern
       - start : 2016-06
         end : 2016-09
         experience : Reveron Consulting
+        title: Software Engineer, Intern 
     skills : 
-      - skill : work
+      - skill : Web Services
         value : 100  # Percent value
         
   # Icons
